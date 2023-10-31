@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 724.622 635.753">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #039be5;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 18px;
+      }
+
+      .cls-2 {
+        stroke: #039be5;
+      }
+
+      .cls-3 {
+        stroke: #ff8183;
+      }
+    </style>
+  </defs>
+  <g id="Groupe_21" data-name="Groupe 21" transform="translate(4 4)">
+    <path id="Tracé_54" data-name="Tracé 54" class="cls-1" d="M396.058,234.716A13.358,13.358,0,1,0,382.7,221.358a13.367,13.367,0,0,0,13.358,13.358" transform="translate(202.214 108.683)"/>
+    <path id="Tracé_55" data-name="Tracé 55" class="cls-2" d="M492.284,281.955H335.215l-31.168,57.884L263.359,207.029l-35.928,81.682H104.6M432.865,404.479,329.841,507.5c3.224,3.838,61.876,62.951,61.876,62.951l208.2-208.2L615.576,346.6c56.963-56.963,56.963-149.239,0-206.048l-2.15-2.15c-56.963-56.963-149.239-56.963-206.048,0l-15.661,15.661L376.056,138.4a145.768,145.768,0,0,0-206.2,0l-2.15,2.15a144.77,144.77,0,0,0-41.762,87.363" transform="translate(53.324 48.546)"/>
+    <path id="Tracé_56" data-name="Tracé 56" class="cls-3" d="M294.9,49.4c-125.9,0-228,102.1-228,228a240.176,240.176,0,0,0,2.15,31.782" transform="translate(33.14 23.771)"/>
+    <path id="Tracé_57" data-name="Tracé 57" class="cls-2" d="M416.686,60.581A311.25,311.25,0,0,0,152.6,17.283" transform="translate(79.023)"/>
+    <line id="Ligne_4" data-name="Ligne 4" class="cls-2" x2="40.841" transform="translate(5 253.886)"/>
+    <line id="Ligne_5" data-name="Ligne 5" class="cls-2" x2="37.003" y2="17.35" transform="translate(37.55 129.213)"/>
+    <line id="Ligne_6" data-name="Ligne 6" class="cls-2" x2="26.255" y2="31.322" transform="translate(113.552 38.471)"/>
+  </g>
+</svg>
